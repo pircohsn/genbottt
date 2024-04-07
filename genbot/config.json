@@ -1,0 +1,32 @@
+{
+  "token": "",
+  "username": "",
+  "password": "",
+
+  "port": "3000",
+
+  "clientId": "1222284343674667201",
+  "guildId": "1209943713158144050",
+  "globalDeploy": false,
+
+  "status": "DİJİTAL_STORE 🔥",
+  "website": "https://www.youtube.com/@dijitalstoree",
+  "banner": "https://share.creavite.co/660381b7d28c88b11e60b514.gif",
+  "footer": "MERHABA BEN HASAN SIZLERE EN IYI SEKILDE HIZMET VERMEYE CALISIYORUZ WEB SITEMIZ ILE DURUST SATISLAR YAPTIK +3 YIILLIK TECRUBE VE DISCORT DISI 850+SATISLAR 🔥",
+
+  "genChannel": "1224000885143896145",
+  "premiumChannel": "1222282883188789320",
+  "genCooldown": "60",
+  "premiumCooldown": "60",
+
+  "color": {
+    "green": "0x57F287",
+    "yellow": "0xFEE75C",
+    "red": "0xED4245",
+    "default": "0x5865F2"
+  },
+  "command": {
+    "notfound_message": true,
+    "error_message": true
+  }
+}
